@@ -1,2 +1,6 @@
-git clone https://github.com/SahooShuvranshu/Spotify-Live-Banner.git
-cd Spotify-Live-Banner/source
+<p align="center">
+  <img src="https://i.imgur.com/a5IAPXZ.png" width="50%">
+</p>
+<p align="center">
+i love sv5
+</p>
